@@ -1,0 +1,7 @@
+Original shape: (891, 15)
+Cleaned shape: (778, 15)
+Exact duplicates in raw data: 107
+Duplicates removed after text standardization: 113
+Missing cells before cleaning: 869
+Missing cells after cleaning: 0
+Remaining duplicates: 0
